@@ -1,2 +1,2 @@
 # To-Do-App
-Using JavaScript
+Using JavaScript on console
